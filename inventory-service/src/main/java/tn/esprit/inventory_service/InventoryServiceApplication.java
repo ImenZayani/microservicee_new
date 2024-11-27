@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import tn.esprit.inventory_service.model.Inventory;
 import tn.esprit.inventory_service.repository.InventoryRepository;
 import org.springframework.boot.CommandLineRunner;
-import org.springframework.boot.SpringApplication;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
